@@ -16,13 +16,14 @@ const projects = [
   },
   {
     id: 2,
-    title: "Workout Wizard",
-    timeline: "May 2024 - Aug 2024",
+    title: "Persona Web Automation",
+    timeline: "Feb 2024 - Aug 2024",
     description: [
-      "Developed a comprehensive workout planning web app offering muscle group-based exercise recommendations with video demonstrations, customizable exercise plans, user profiles, and progress tracking",
-      "Implemented React.js for the frontend with Redux for state management and Tailwind for styling, and Node.js, Express.js for the backend with MongoDB for data storage"
+      "Developed a flexible automation framework capable of handling most web tasks, influenced by an AI-generated persona based on users’ personalities",
+      "Implemented React, JavaScript, and Tailwind for the user interface and Python and Flask for the backend",
+      "Utilized the OpenAI API to generate user personas and analyze web pages for personality-accurate automation"
     ],
-    technologies: ["React", "Redux", "Tailwind", "JavaScript", "MonogoDB", "Python"]
+    technologies: ["React", "Tailwind", "JavaScript", "Flask", "Python", "OpenAI API"] 
   }
 ];
 
@@ -124,7 +125,7 @@ const Projects = () => {
         >
           <h2 className="text-4xl font-bold text-slate-800 mb-4">Projects</h2>
           <p className="text-xl text-slate-600">
-            Some of my personal work
+            Some of my work
           </p>
         </motion.div>
 

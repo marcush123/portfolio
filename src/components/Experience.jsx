@@ -7,11 +7,11 @@ const experiences = [
     id: 1,
     role: "Undergraduate Research Intern",
     company: "PRIME Lab @ Virginia Tech",
-    duration: "Feb 2024 - Present",
+    duration: "Feb 2024 - Jan 2025",
     location: "Blacksburg, VA",
     description: [
-      "Developed AI-powered agents with distinct personas to automate web-based tasks, utilizing React, JavaScript, and Python",
-      "Collaborated with diverse teams to design and implement user studies evaluating the effectiveness of AI-enhanced interfaces",
+      "Conducted experimental research on human-AI interaction patterns in an educational context, analyzing student engagement and learning outcomes",
+      "Collaborated with diverse teams to design and implement user studies and systems evaluating the effectiveness of AI-enhanced interfaces",
     ],
     technologies: ["React", "Python", "Javascript", "PostgreSQL"]
   },
@@ -19,7 +19,7 @@ const experiences = [
     id: 2,
     role: "Undegraduate Teaching Assistant",
     company: "Virginia Tech Computer Science Department",
-    duration: "Aug 2024 - Present",
+    duration: "Aug 2024 - Dec 2024",
     location: "Blacksburg, VA",
     description: [
       "TA for the Data Structures and Algorithms Course at Virginia Tech",
