@@ -10,7 +10,7 @@ const experiences = [
     duration: "Feb 2024 - Jan 2025",
     location: "Blacksburg, VA",
     description: [
-      "Conducted experimental research on human-AI interaction patterns in an educational context, analyzing student engagement and learning outcomes",
+      "Performed data analysis on user study findings using PostgreSQL and SQL queries to process 1000+ student-AI interaction events, revealing key insights about engagement patterns and feature usage",
       "Collaborated with diverse teams to design and implement user studies and systems evaluating the effectiveness of AI-enhanced interfaces",
     ],
     technologies: ["React", "Python", "Javascript", "PostgreSQL"]
